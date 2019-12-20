@@ -3,6 +3,7 @@ def using_while
 	
   #your code here
   while levitation_force < 10 
+    putw 
     levitation_force += 1 
   end 
 end
